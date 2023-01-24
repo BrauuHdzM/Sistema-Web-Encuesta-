@@ -1,0 +1,35 @@
+.color{
+background-color: #474A57;
+width: 100%;
+height: 60px;
+position: absolute;
+bottom: 0px;
+align-items: left;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+}
+
+.texto{
+    color: white;
+    text-align: right;
+    margin-top: 35px !important;
+}
+
+p{
+    margin-top: 4px !important;
+}
+
+.color1{
+position: relative;
+padding-bottom: 50px;
+}
+.color2{
+background-color: #474A57;
+width: 100%;
+height: 60px;
+position: absolute;
+top: 285%;
+align-items: left;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+}

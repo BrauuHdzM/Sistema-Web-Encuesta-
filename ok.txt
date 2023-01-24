@@ -1,0 +1,5 @@
+    <footer>
+        <div class="color2">
+            <p class="texto">© Team Chulada 2021</p>
+        </div>
+    </footer>

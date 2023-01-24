@@ -1,0 +1,24 @@
+.espacio-tabla th {
+    padding: 20px;
+}
+
+.espacio-tabla td {
+    padding: 20px;
+}
+
+.espacio-div {
+    margin: 50px auto 100px auto;
+}
+
+.credenciales {
+    width: 100%;
+    background-color: #E6E6E6;
+    border-radius: 50px;
+    padding: 5px 0px 5px 20px;
+    font-size: 110%;
+    border-width: 0px;
+    width: 45%;
+}
+
+.ref {
+    min-height: 80vh;}

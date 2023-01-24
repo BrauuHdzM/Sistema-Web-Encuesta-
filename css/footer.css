@@ -1,0 +1,12 @@
+.foocool {
+    background-color: #474A57;
+    position: absolute !important;
+    bottom: 0px !important;    
+}
+
+.piedepagina {
+    /*color: white;*/
+    text-align: right;
+    position: absolute !important;
+    bottom: 0 !important;
+}

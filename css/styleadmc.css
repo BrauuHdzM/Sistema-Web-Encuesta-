@@ -1,0 +1,19 @@
+.centrar {
+    text-align: center !important;
+}
+
+.espacio-tabla th {
+    padding: 20px;
+}
+
+.espacio-tabla td {
+    padding: 20px;
+}
+
+.espacio-div {
+    margin: 50px auto 100px auto;
+}
+
+.nuevocolor {
+    background-color: #5C7AEA !important;
+}
